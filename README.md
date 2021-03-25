@@ -6,4 +6,4 @@
 
 ## Extented Kalman Filters
 ### Implemented a 2D Extented Kalman Filters (EKF-SLAM) 
-<img src="Pictures/HW2 result.gif" width="300" height="300" />
+<img src="Pictures/HW2\result.gif" width="300" height="300" />
