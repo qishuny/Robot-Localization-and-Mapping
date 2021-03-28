@@ -125,6 +125,7 @@ if __name__ == '__main__':
     # with open('lmap.npy','rb') as f:
     #     ray_map = np.load(f)
     # print(ray_map.shape)
+    ray_map = 0
 
     bool_occ_map = (occupancy_map < 0.35) & (occupancy_map >= 0)
 
