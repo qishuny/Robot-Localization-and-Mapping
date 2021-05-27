@@ -1,4 +1,7 @@
 ﻿# Robot-Localization-and-Mapping
+ ## Dense SLAM with Point-based Fusion (HW 4)
+ ### implemented a 3D dense SLAM system using point-based fusion
+ <img src="Pictures/HW4 result.png" width="300" height="300" />
  ## Linear and Non-Linear Least Squares (HW 3) 
 ### Solved SLAM as Linear and Non-Linear least squares problem 
 ### (requires several additional configurations and Ubuntu/macOS system)
